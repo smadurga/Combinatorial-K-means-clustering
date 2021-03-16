@@ -12,4 +12,5 @@ A main characteristic of this procedure is that it is not required that all the 
 It has been tested that this technique could be applied to medical clinical data of patients with Diabetes Mellitus Type 2 (DMT2) with underlying diseases.
 
 
-Citation: Nedyalkova, M.; Madurga, S.; Simeonov, V. Combinatorial K-means clustering as a machine learning tool applied to diabetes mellitus type 2. Int. J. Environ. Res. Public Health 2020, 18, x. (under review)
+Citation: Nedyalkova, M.; Madurga, S.; Simeonov, V. Combinatorial K-means clustering as a machine learning tool applied to diabetes mellitus type 2. Int. J. Environ. Res. Public Health 2021 Feb 17;18(4):1919.
+doi: 10.3390/ijerph18041919. 
